@@ -18,3 +18,17 @@ main ad img {
     max-height: 17vh;
     width: 100vw;
 }
+
+.modal-content {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.btn-close {
+    background-color: #ffffff;
+}
+
+.modal img {
+    max-height: 70vh;
+    max-width: 80vw;
+}
